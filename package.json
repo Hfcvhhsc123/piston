@@ -1,5 +1,12 @@
 {
-    "devDependencies": {
-        "prettier": "2.4.1"
-    }
+  "name": "gemini_proxy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "prettier": "2.4.1"
+  }
 }
